@@ -27,7 +27,9 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the home page of the OWASP PSNA College of Engineering and Technology chapter.
+
+Established in January 2023, the OWASP PSNA College of Engineering and Technology Chapter is for students who are passionate about learning and imparting knowledge about cyber security. This chapter emphasized acquiring access to security training programs and networking with numerous wonderful people through project volunteer work. Web application security is becoming increasingly vital as the number of threats to internet users rises. The main objective of this chapter is to put together an array of tools,applications, learning guides, and standards that enhance the overall well-being of the internet and assist students increating, developing, steering, and utilizing web apps that can be trusted
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -38,7 +40,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+Coming Soon....
 
 <!-- You should delete this comment
 
