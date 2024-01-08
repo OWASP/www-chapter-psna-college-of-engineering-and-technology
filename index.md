@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP PSNA College of Engineering and Technology
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
