@@ -3,7 +3,7 @@ title:Inaugaration of OWASP PSNA
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: Inaugaration of OWASP PSNA
 
 
 ![photo_2024-01-21_19-12-01](https://github.com/OWASP/www-chapter-psna-college-of-engineering-and-technology/assets/148941457/adfa6ba2-951d-4c30-a002-0ea5ae76815c)
