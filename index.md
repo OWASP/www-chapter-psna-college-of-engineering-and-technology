@@ -25,5 +25,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event 
 ---------------------
-Coming Soon....
+Inaugaration of OWASP PSNA
+
+![photo_2024-01-21_19-12-01](https://github.com/OWASP/www-chapter-psna-college-of-engineering-and-technology/assets/148941457/56bb06d8-1752-404d-a332-85bb70b5b2de)
+![photo_2024-01-21_19-12-16](https://github.com/OWASP/www-chapter-psna-college-of-engineering-and-technology/assets/148941457/2223b4ee-037b-442d-a83b-9e68057c6ea4)
+![photo_2024-01-21_19-12-20](https://github.com/OWASP/www-chapter-psna-college-of-engineering-and-technology/assets/148941457/1c9cb6b8-737d-4128-96a5-7d1f8c3d1cba)
+![photo_2024-01-21_19-11-51](https://github.com/OWASP/www-chapter-psna-college-of-engineering-and-technology/assets/148941457/bd2b6960-a0c0-4654-a321-0df06c07491b)
+
 
