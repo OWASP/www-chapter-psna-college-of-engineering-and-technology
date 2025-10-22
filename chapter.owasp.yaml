@@ -1,0 +1,28 @@
+leaders:
+  - name: Pushpa Lakshmi
+    email: pushpa.lakshmi@owasp.org
+  - name: Rahman MS
+    email: rahman.ms@owasp.org
+  - name: Sakthi Priya
+    email: sakthi.priya@owasp.org
+  - name: Sanjay
+    email: sanjay.meenakumar@owasp.org
+  - name: Harshini Priya
+    email: harshini.priya@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Dindigul
+  latitude: 10.425689649999999
+  longitude: 77.815663999998
+name: OWASP PSNA College of Engineering and Technology
+repositories:
+  - name: www-chapter-psna-college-of-engineering-and-technology
+    url: https://github.com/OWASP/www-chapter-psna-college-of-engineering-and-technology
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-psna-college-of-engineering-and-technology
